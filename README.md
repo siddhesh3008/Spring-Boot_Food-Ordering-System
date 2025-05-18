@@ -61,7 +61,7 @@ com.onlinefoodordering
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vivek03052002/SpringBoot-Food_Ordering_System.git
+git clone https://github.com/siddhesh3008/Spring-Boot_Food-Ordering-System.git
 cd SpringBoot-Food_Ordering_System
 ```
 
